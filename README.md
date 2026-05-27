@@ -4,6 +4,12 @@
 Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
+<img width="914" height="404" alt="image" src="https://github.com/user-attachments/assets/8f1259a6-b1e3-41c9-8863-cc8f7e513cad" />
+<img width="953" height="432" alt="image" src="https://github.com/user-attachments/assets/e658ded2-038e-4b37-8ebb-baddc9d9e1c4" />
+<img width="1046" height="500" alt="image" src="https://github.com/user-attachments/assets/cbed37aa-3658-4147-94b9-7bb547b21071" />
+
+
+
 
 **Mathematical Calculation**
 
@@ -41,7 +47,3 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 **Conclusion:**
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
-
-
-
-
